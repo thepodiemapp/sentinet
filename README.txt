@@ -1,4 +1,4 @@
-SENTINET + PODIEM — LINKED WEBSITES
+SENTINET + PODIEM, LINKED WEBSITES
 
 1. Extract the complete ZIP folder.
 2. Open index.html for the Sentinet company website.
